@@ -1,3 +1,4 @@
+#暴力破解法，可能会出现超时错误
 class Solution:
     def twoSum(self, nums, target):
         """
